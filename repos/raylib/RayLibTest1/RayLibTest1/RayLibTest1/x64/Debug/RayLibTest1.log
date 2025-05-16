@@ -1,0 +1,10 @@
+﻿  RayLibTest1.cpp
+C:\Users\dario\repos\raylib\RayLibTest1\RayLibTest1\RayLibTest1.cpp(97,26): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\dario\repos\raylib\RayLibTest1\RayLibTest1\RayLibTest1.cpp(97,21): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\dario\repos\raylib\RayLibTest1\RayLibTest1\RayLibTest1.cpp(97,16): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\dario\repos\raylib\RayLibTest1\RayLibTest1\RayLibTest1.cpp(112,41): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\dario\repos\raylib\RayLibTest1\RayLibTest1\RayLibTest1.cpp(112,27): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\dario\repos\raylib\RayLibTest1\RayLibTest1\RayLibTest1.cpp(114,26): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\dario\repos\raylib\RayLibTest1\RayLibTest1\RayLibTest1.cpp(114,21): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\dario\repos\raylib\RayLibTest1\RayLibTest1\RayLibTest1.cpp(114,16): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  RayLibTest1.vcxproj -> C:\Users\dario\repos\raylib\RayLibTest1\RayLibTest1\x64\Debug\RayLibTest1.exe
